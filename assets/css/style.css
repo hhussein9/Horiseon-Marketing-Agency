@@ -15,6 +15,15 @@ body {
     color: #ffffff;
 }
 
+li {float: left;}
+
+li a {display: inline=inline-block;
+width: 200%;
+height: 100px;
+padding: 10px;
+background-color: #0072bb;}
+
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
